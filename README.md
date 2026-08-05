@@ -1,5 +1,5 @@
 # Predicting-Customer-Purachase-behaviour-using-machine-learning-
-# # Project Overview
+# Project Overview
 
 This repository contains my Master's Thesis completed as part of the Master of Science (MSc.) in Data Science (120 ECTS). The research focuses on predicting customer purchase behavior using machine learning algorithms to help businesses design more effective and personalized marketing strategies.
 

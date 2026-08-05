@@ -82,25 +82,28 @@ Data-driven business decision-making
 The project demonstrates how machine learning can help organizations better understand customer behavior and improve engagement through personalized marketing strategies.
 
 ## Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-XGBoost
-LightGBM
-Matplotlib
-Seaborn
-SHAP
-LIME
+Python/
+Pandas/
+NumPy/
+Scikit-learn/
+XGBoost/
+LightGBM/
+Matplotlib/
+Seaborn/
+SHAP/
+LIME/
 Jupyter Notebook
-Repository Contents
-Thesis Report (PDF)
-Source Code
-Jupyter Notebooks
-Dataset (if redistribution is permitted)
-Model Files
-Visualizations
+
+## Repository Contents
+Thesis Report (PDF)/
+Source Code/
+Jupyter Notebooks/
+Dataset (if redistribution is permitted)/
+Model Files/
+Visualizations/
 Documentation
+
+
 
 
 

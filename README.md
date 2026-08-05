@@ -1,11 +1,11 @@
 # Predicting-Customer-Purachase-behaviour-using-machine-learning-
-Project Overview
+# # Project Overview
 
 This repository contains my Master's Thesis completed as part of the Master of Science (MSc.) in Data Science (120 ECTS). The research focuses on predicting customer purchase behavior using machine learning algorithms to help businesses design more effective and personalized marketing strategies.
 
 The project explores how historical customer data can be analyzed to identify purchasing patterns and predict whether a customer is likely to make a high-value purchase. By leveraging predictive analytics and explainable artificial intelligence (XAI), this research demonstrates how machine learning can support data-driven business decisions while maintaining model transparency.
 
-Objectives
+## Objectives
 
 The primary objectives of this project are:
 
@@ -18,7 +18,7 @@ Dataset
 
 The project uses the Consumer Behavior and Shopping Habits dataset obtained from Kaggle. The dataset contains approximately 3,900 customer transactions with 18 attributes, including demographic information, purchase history, payment methods, product categories, subscription status, review ratings, shipping methods, and seasonal purchasing information.
 
-Data Preprocessing
+## Data Preprocessing
 
 Several preprocessing techniques were applied before model training:
 
@@ -46,7 +46,7 @@ LightGBM
 
 The models were compared using multiple evaluation metrics to identify the most suitable approach for customer purchase prediction.
 
-Model Evaluation
+## Model Evaluation
 
 The trained models were evaluated using standard machine learning performance metrics, including:
 
@@ -59,7 +59,7 @@ Area Under the Curve (AUC)
 
 These metrics provide a comprehensive assessment of predictive performance and model reliability.
 
-Explainable Artificial Intelligence (XAI)
+## Explainable Artificial Intelligence (XAI)
 
 To improve transparency and interpretability, this research incorporates two widely used Explainable AI techniques:
 
@@ -81,7 +81,7 @@ Data-driven business decision-making
 
 The project demonstrates how machine learning can help organizations better understand customer behavior and improve engagement through personalized marketing strategies.
 
-Technologies Used
+## Technologies Used
 Python
 Pandas
 NumPy
@@ -101,6 +101,10 @@ Dataset (if redistribution is permitted)
 Model Files
 Visualizations
 Documentation
-Author
+
+
+
+
+
 
 Abhijith Binu
